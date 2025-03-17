@@ -7,11 +7,12 @@
 
 body {
   font-family: 'Arial', sans-serif;
-  background: url(/project/img/logo\ md_oficial.png);
+  /*background: url(/project/img/logo\ md_oficial.png);
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat;
-  /*background: linear-gradient(135deg, #4f4b53, #2575fc);*/
+  background: linear-gradient(135deg, #4f4b53, #2575fc);*/
+  background-color: rgba(0, 0, 0, 0.808);
   color: #fff;
   display: flex;
   justify-content: center;
